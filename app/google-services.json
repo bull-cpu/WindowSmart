@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "77415733285",
+    "project_id": "windowsmart-28f49",
+    "storage_bucket": "windowsmart-28f49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77415733285:android:8904b77ad07f15bd8ac7cc",
+        "android_client_info": {
+          "package_name": "com.example.ventanasmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCV3Bno2sHzQ2gXc-JS6o05jscKr1DDPzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
